@@ -1,0 +1,28 @@
+langchain==0.3.27 # 얘
+langchain_community
+langchain-openai==0.3.33 # 얘 체크
+
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+langchain-experimental
+
+openai
+
+nltk==3.8.1
+pypdfium2
+pypdf
+rapidocr-onnxruntime
+sentence-transformers
+unstructured
+unstructured[pdf]
+
+python-pptx
+python-magic-bin==0.4.14
+
+faiss-cpu
+grandalf 
+streamlit
+
+
+
